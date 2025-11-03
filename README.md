@@ -23,8 +23,8 @@ Each project focuses on:
 Dashboards-and-Data-Visualizations/
 │
 ├── 📁 Power-BI/
-│ ├── 📁Amazon Sales Data
-│ ├── 📁 Flipkart Data
+│ ├── Amazon Sales Data
+│ ├── Flipkart Data
 │ └── README.md → (Dashboard descriptions, KPIs, visuals, insights)
 │
 └── 📁 Tableau/
