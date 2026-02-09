@@ -18,20 +18,6 @@ Each project focuses on:
 
 ---
 
-## 🗂️ Repository Structure
-
-Dashboards-and-Data-Visualizations/
-│
-├── 📁 Power-BI/
-│ ├── Amazon Sales Data
-│ ├── Flipkart Data
-│ └── README.md → (Dashboard descriptions, KPIs, visuals, insights)
-│
-└── 📁 Tableau/
-
-
----
-
 ## 🧰 Tools & Technologies
 
 | Tool | Purpose |
